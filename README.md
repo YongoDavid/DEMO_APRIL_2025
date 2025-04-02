@@ -7,3 +7,4 @@ I will soon finish the PE course advanced section and also focus fully on the ME
 
 APR 02
 Another day, another grind.
+Still working on the PE course.
