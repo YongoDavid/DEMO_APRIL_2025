@@ -6,4 +6,4 @@ New month,New week and more grind.
 I will soon finish the PE course advanced section and also focus fully on the MERN project and round it up.
 
 APR 02
-
+Another day, another grind.
