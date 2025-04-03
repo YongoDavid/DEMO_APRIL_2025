@@ -10,4 +10,4 @@ Another day, another grind.
 Still working on the PE course.
 
 APR 03
-New da, same grind.
+New day, same grind.
