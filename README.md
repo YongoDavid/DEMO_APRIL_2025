@@ -28,3 +28,6 @@ Still on the PE course and MERN application.
 APR 08
 New day, same grind.
 i will continue with the MERN application build and PE course review.
+
+APR 09
+New day, same grind
