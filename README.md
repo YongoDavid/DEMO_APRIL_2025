@@ -37,3 +37,5 @@ APR 10
 New day, same grind.
 Nice progress on the MERN application.
 Good progress on PE course review so far.
+
+APR 11
