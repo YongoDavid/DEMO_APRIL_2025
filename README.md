@@ -41,3 +41,6 @@ Good progress on PE course review so far.
 APR 11
 New day, same grind.
 Continue from where i stopped on MERN app and PE course review.
+
+APR 12
+
