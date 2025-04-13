@@ -50,4 +50,4 @@ New day, same grind.
 Sunday, light work.
 
 APR 14
-
+New day, New week, same grind!!.
