@@ -56,3 +56,6 @@ Still working on the PE review and MERN App.
 APR 15
 New day, same grind!
 More Review on PE course , MERN and continue MERN app project.
+
+APR 16
+
