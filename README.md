@@ -60,3 +60,6 @@ More Review on PE course, continue MERN app project.
 APR 16
 New day, same grind.
 continue MERN APP.
+
+APR 17
+
