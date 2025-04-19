@@ -70,4 +70,4 @@ New day, same grind.
 Getting alot of bugs on the MERN APP, lets get back to fixing them.
 
 APR 19
-
+New day, same grind.
