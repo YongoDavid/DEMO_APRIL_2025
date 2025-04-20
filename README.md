@@ -74,4 +74,4 @@ New day, same grind.
 still fixing errors on the MERN app.
 
 APR 20
-
+Sunday chill day.
