@@ -82,3 +82,4 @@ New week, new day same grind.
 
 APR 22
 New day, same grind.
+Still on the MERN APP project.
