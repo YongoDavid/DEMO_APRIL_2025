@@ -97,4 +97,4 @@ Still on the MERN App.
 
 APR 26
 New day, same grind!
-MERN APP
+MERN APP, fixing webpack errors.
