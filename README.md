@@ -94,3 +94,5 @@ Debugging errors in the MERN project.
 APR 25
 New day, same grind.
 Still on the MERN App.
+
+APR 26
