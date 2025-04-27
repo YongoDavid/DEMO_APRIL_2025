@@ -98,3 +98,6 @@ Still on the MERN App.
 APR 26
 New day, same grind!
 MERN APP, fixing webpack errors.
+
+APR 27
+sunday chillday
