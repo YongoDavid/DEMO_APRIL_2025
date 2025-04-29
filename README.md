@@ -106,3 +106,6 @@ APR 28
 New week, same grind.
 i have having alot for issues on the MERN project especially with webpack.
 I am just going to try and run the project without webpack then re-configure webpack.
+
+APR 29
+
