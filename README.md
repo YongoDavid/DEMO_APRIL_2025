@@ -112,4 +112,4 @@ New day, same grind.
 
 APR 30
 New day, same grind.
-PE course completed.
+PE Review course completed.
