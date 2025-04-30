@@ -113,3 +113,4 @@ New day, same grind.
 APR 30
 New day, same grind.
 PE Review course completed.
+MERN APP is still giving me alot of issues.
